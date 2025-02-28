@@ -225,6 +225,7 @@ main {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: none;
 }
+
 h1 {
   font-weight: 700;
   font-size: 1.5rem;
@@ -251,4 +252,17 @@ input[type="email"],
 input[type="checkbox"] {
   font-size: 1rem;
   text-align: center;
+}
+
+input[type="checkbox"] {
+  margin-right: 8px;
+  border: none;
+}
+
+input[type="submit"] {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(to right, #666, #444);
+  color: white;
+
 }
