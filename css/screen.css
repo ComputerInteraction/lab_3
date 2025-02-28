@@ -21,7 +21,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif; /* 1 */
+  font-family: font-family: "Sigmar", Arial, serif; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
@@ -193,9 +193,10 @@ img, audio, video {
 
 html {
   font-size: 1.375em; /* 22px */
-  line-height: 1.182em; /* 26px / ~ 120% */
+  line-height: 1.185em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+   background-color: #6699CC;
 }
 
 label {
