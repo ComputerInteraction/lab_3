@@ -264,5 +264,10 @@ input[type="submit"] {
   padding: 12px;
   background: linear-gradient(to right, #666, #444);
   color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
 
 }
