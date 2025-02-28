@@ -204,16 +204,17 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
-
-
-/* ===== STATE STYLES ======= */
-
 body {
   font-family: "Sigmar", Arial, serif;
   font-weight: 400;
   font-size: 1.4em;
   line-height: 1.182em; 
   padding: 2.182em;  
+
+
+/* ===== STATE STYLES ======= */
+
+
 }
 
 main {
