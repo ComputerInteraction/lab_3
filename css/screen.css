@@ -271,7 +271,7 @@ input[type="submit"] {
 
 }
 
-@media (min-width: 500px) {
+@media (min-width: 760px) {
 
 body {
   font-family: "Sigmar", Arial, serif;
@@ -280,8 +280,13 @@ body {
   font-style: normal;
   line-height: 1.182em;  
 }
+.form-container {
+  display: grid;
+  place-items: center;
+  min-height: 80vh;
 
+}
 
-
-
+form {
+  width: 100%;
 }
