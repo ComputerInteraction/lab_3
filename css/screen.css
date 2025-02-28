@@ -211,9 +211,9 @@ label {
 body {
   font-family: "Sigmar", Arial, serif;
   font-weight: 400;
-  font-size: 1.3em;
-  font-style: normal;
-  line-height: 1.182em;   
+  font-size: 1.4em;
+  line-height: 1.182em; 
+  padding: 2.182em;  
 }
 
 main {
