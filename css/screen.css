@@ -267,7 +267,21 @@ input[type="submit"] {
   font-weight: bold;
   border: none;
   border-radius: 8px;
-  cursor: pointer;
   transition: background 0.3s ease;
+
+}
+
+@media (min-width: 500px) {
+
+body {
+  font-family: "Sigmar", Arial, serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  font-style: normal;
+  line-height: 1.182em;  
+}
+
+
+
 
 }
