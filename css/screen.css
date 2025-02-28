@@ -196,7 +196,7 @@ html {
   line-height: 1.185em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
-   background-color: #6699CC;
+  background-color: #6699CC;
 }
 
 label {
@@ -208,3 +208,20 @@ label {
 
 /* ===== STATE STYLES ======= */
 
+body {
+  font-family: "Sigmar", Arial, serif;
+  font-weight: 400;
+  font-size: 1.3em;
+  font-style: normal;
+  line-height: 1.182em;   
+}
+
+main {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+}
