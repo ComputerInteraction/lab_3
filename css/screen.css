@@ -225,6 +225,18 @@ main {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   border: none;
 }
+h1 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #222;
+  text-align: center;
+}
+
+p {
+  font-weight: 300;
+  text-align: center;
+  color: #555 ;
+}
 
 input[type="email"] {
   width: 90%;
@@ -233,4 +245,10 @@ input[type="email"] {
   border-radius: 8px;
   border: none;
   box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="email"],
+input[type="checkbox"] {
+  font-size: 1rem;
+  text-align: center;
 }
