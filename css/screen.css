@@ -254,7 +254,7 @@ input[type="email"] {
 input[type="submit"] {
   width: 100%;
   padding: 12px;
-  background: linear-gradient(to right, #666, #444);
+  background: linear-gradient(#666, #444);
   color: white;
   font-weight: bold;
   border: none;
