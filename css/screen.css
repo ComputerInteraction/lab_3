@@ -211,17 +211,10 @@ body {
   line-height: 1.182em; 
   padding: 2.182em;  
   
-  
-  
-
-
-/* ===== STATE STYLES ======= */
-
-
 }
 
 main {
-  max-width: 400px;
+  max-width: 600px;
   margin: 0 auto;
   background-color: #fff;
   padding: 20px;
@@ -229,12 +222,21 @@ main {
   box-shadow: 0 7px 6px rgba(0, 0, 0, 1.5);
   border: none;
 }
+  
+  
+
+
+/* ===== STATE STYLES ======= */
+
+
+
 
 h1 {
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 2.1rem;
   color: #222;
   text-align: center;
+  padding: 10px;
 }
 
 p {
@@ -259,7 +261,7 @@ input[type="checkbox"] {
 }
 
 input[type="checkbox"] {
-  margin-right: 8px;
+  margin-left: 8px;
   border: none;
 }
 
@@ -271,7 +273,6 @@ input[type="submit"] {
   font-weight: bold;
   border: none;
   border-radius: 8px;
-  transition: background 0.3s ease;
 }
 
 @media (min-width: 760px) {
