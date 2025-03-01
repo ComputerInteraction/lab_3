@@ -210,6 +210,9 @@ body {
   font-size: 1.4em;
   line-height: 1.182em; 
   padding: 2.182em;  
+  
+  
+  
 
 
 /* ===== STATE STYLES ======= */
@@ -223,7 +226,7 @@ main {
   background-color: #fff;
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 7px 6px rgba(0, 0, 0, 1.5);
   border: none;
 }
 
